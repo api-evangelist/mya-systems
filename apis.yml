@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.mya.com', status: 301, note: 'declared website redirects to https://www.thestepstonegroup.com/english/ — a different registrable domain (mya.com -> thestepstonegroup.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mya-systems.png
 name: Mya Systems
 description: 'Mya Systems was a San Francisco based HR-tech company, founded in 2012 by Eyal Grayevsky
